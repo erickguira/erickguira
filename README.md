@@ -1,7 +1,5 @@
 # 🌟 Bienvenido a mi GitHub 🌟
 
-Hola, soy un apasionado desarrollador con un enfoque **orientado al futuro** y un fuerte sentido de la innovación. Aquí comparto proyectos que van desde soluciones simples hasta sistemas más complejos que buscan resolver problemas reales. Mi objetivo es siempre crear código limpio, eficiente y con propósito.
-
 ## 🔍 Sobre mí
 
 💻 Estudiante de [Ing en Software] en [Unicaribe].  
