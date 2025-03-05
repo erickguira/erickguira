@@ -2,7 +2,7 @@
 
 ## 🔍 Sobre mí
 
-💻 Estudiante de [Ing en Software] en [Unicaribe].  
+💻 Estudiante de **Ing en Software** en **Unicaribe**.  
 
 Soy un **estudiante en desarrollo** con enfoque en el aprendizaje dia a dia. Disfruto del desafío que cada nuevo proyecto presenta, y siempre busco mejorar tanto mis habilidades como el impacto de mis soluciones.
 
